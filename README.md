@@ -1,6 +1,6 @@
 # Diplomado React Proyecto
 
-Aplicacion desarrollada en React + TypeScript para la gestion de tareas.
+Aplicacion desarrollada en React para la gestion de tareas.
 
 ## Nombre:
 
